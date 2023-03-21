@@ -23,4 +23,3 @@
     <a href="https://www.tiktok.com/@matheus_dev1" target="blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="blank"/> </a>
     <a href="https://wa.me/21982620537" target="blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/> </a>
      </div>
-  ![Snake animation](https://github.com/flavioamorim2/flavioamorim2/blob/output/dist/github-contribution-grid-snake.svg)
