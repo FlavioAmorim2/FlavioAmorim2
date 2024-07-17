@@ -8,7 +8,7 @@
 <div >
   <a href="https://github.com/flavioamorim2">
     <img  heigth="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioamorim2&layout=compact&langs_16&theme=tokyonight"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=flavioamorim2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br>
+<!--     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=flavioamorim2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br> -->
   </div>
   <div style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
