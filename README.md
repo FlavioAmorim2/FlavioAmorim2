@@ -14,8 +14,8 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html"/>
    <img align="center" alt="css" height="40" width="50" src="https://skillicons.dev/icons?i=css"/>  
     <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=javascript"/>
-    <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=nodejs"/>
     <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=react"/>
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=nodejs"/>
     <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=tailwind"/>
     <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=postgres"/>
     <img align="center" alt="JavaScript" height="40" width="50" src="https://skillicons.dev/icons?i=vite"/>
