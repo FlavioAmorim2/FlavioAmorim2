@@ -1,8 +1,13 @@
-### Olá, Eu sou o Flavio Amorim
+## 🚀 Sobre mim  
+Olá! Eu sou o **Flavio Amorim**, desenvolvedor **Full Stack** em início de carreira, focado em criar aplicações web dinâmicas e funcionais com **JavaScript** e **Node.js**.  
 
+### 🌟 Objetivo  
+Atuar como desenvolvedor júnior em uma empresa que valorize o aprendizado e a inovação.  
 
-- 🔭 Analista Financeiro ...
-- 🌱 Estudando front end e back end ...
+### 💻 Tecnologias que domino:  
+- **Front-end**: HTML | CSS | JavaScript | React  
+- **Back-end**: TypeScript | Node.js | Express | PostgreSQL | MongoDB  
+- **Ferramentas**: Git | VSCode 
 - 📫 Contate-me via E-mail: flaviomatheus28013@gmail.com  
 
 <div >
@@ -20,6 +25,7 @@
     <img align="center" alt="nodejs" height="40" width="50" src="https://skillicons.dev/icons?i=nodejs"/>
     <img align="center" alt="postgres" height="40" width="50" src="https://skillicons.dev/icons?i=postgres"/>
     <img align="center" alt="mongodb" height="40" width="50" src="https://skillicons.dev/icons?i=mongodb"/>
+<!--     <img align="center" alt="mongodb" height="40" width="50" src="https://skillicons.dev/icons?i=postgreSQL"/> -->
     <img align="center" alt="googlecloud" height="40" width="50" src="https://skillicons.dev/icons?i=googlecloud"/>
     </div>
   
